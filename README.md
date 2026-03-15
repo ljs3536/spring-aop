@@ -28,3 +28,5 @@ Args
 @target, @within
 # 2026-03-14
 @annotation, @args
+# 2026-03-15
+bean
