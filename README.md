@@ -30,3 +30,5 @@ Args
 @annotation, @args
 # 2026-03-15
 bean
+# 2026-03-16
+매개변수 전달
